@@ -7,4 +7,4 @@ This project implements is a PHP version of [Twitter Snowflake](https://github.c
 
 license [Apache 2.0](https://github.com/lucasvscn/snowflake/LICENSE)
 
-contact me at [@nan](https://code.aliyun.com/u/nan)
+contact me at [@夜访萤火虫](https://code.aliyun.com/u/nan)
