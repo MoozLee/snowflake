@@ -4,8 +4,8 @@ namespace HollyTeng\Snowflake;
 
 class Snowflake
 {
-    const INITIAL_EPOCH = 1451625443000;
-    const SHARD_ID = 0;
+    const INITIAL_EPOCH = 1491533672000;
+    const SHARD_ID = 1;
 
     /**
      * Generate the 64bit unique ID.
@@ -22,7 +22,7 @@ class Snowflake
         * Subtract custom epoch from current time
         */
         $curr_timestamp -= self::INITIAL_EPOCH;
-
+        
         /**
         * Create a initial base for ID
         */
