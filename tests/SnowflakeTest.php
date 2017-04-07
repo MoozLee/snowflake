@@ -2,7 +2,7 @@
 
 require_once realpath(dirname(__FILE__) . '/Test.php');
 
-use HollyTeng\Snowflake\Snowflake;
+use Yefang\Snowflake\Snowflake;
 
 $id = Snowflake::generateID();
 

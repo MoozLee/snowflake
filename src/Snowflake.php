@@ -1,6 +1,6 @@
 <?php
 
-namespace HollyTeng\Snowflake;
+namespace Yefang\Snowflake;
 
 class Snowflake
 {

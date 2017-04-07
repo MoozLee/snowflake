@@ -1,8 +1,8 @@
 <?php
 
-namespace HollyTeng\Snowflake;
+namespace Yefang\Snowflake;
 
-use HollyTeng\Snowflake\Snowflake;
+use Yefang\Snowflake\Snowflake;
 
 trait SnowflakeHelpers
 {

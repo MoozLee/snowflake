@@ -1,5 +1,5 @@
 {
-    "name": "hollyteng/snowflake",
+    "name": "yefang/snowflake",
     "description": "based on Twitter Snowflake ID Generator (64 bit ID)",
     "authors": [{
         "name": "HollyTeng",
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "HollyTeng\\Snowflake\\": "src/"
+            "Yefang\\Snowflake\\": "src/"
         }
     }
 }
