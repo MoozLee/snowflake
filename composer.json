@@ -5,6 +5,7 @@
         "name": "HollyTeng",
         "email": "n.haoyuan@gmail.com"
     }],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Yefang\\Snowflake\\": "src/"
